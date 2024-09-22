@@ -1,0 +1,11 @@
+user_type,month,total_transaction,total_transaction_amount
+Corporate,2021-06,6,26302128
+Corporate,2021-07,6,714833349
+Corporate,2021-08,3,28452612
+Corporate,2021-09,6,35774094
+Corporate,2021-12,3,13097409
+Retail,2021-06,8,35069504
+Retail,2021-07,8,953111132
+Retail,2021-08,4,37936816
+Retail,2021-09,8,47698792
+Retail,2021-12,4,17463212
